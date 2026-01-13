@@ -1,0 +1,83 @@
+.filter-sidebar {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-light);
+  padding: var(--spacing-lg);
+  width: 280px;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  position: sticky;
+  top: 100px;
+  /* Offset for sticky navbar */
+  flex-shrink: 0;
+}
+
+@media (max-width: 1024px) {
+  .filter-sidebar {
+    width: 100%;
+    position: static;
+  }
+}
+
+.filter-section {
+  margin-bottom: var(--spacing-lg);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--border-light);
+}
+
+.filter-section:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.filter-section h3 {
+  margin-bottom: var(--spacing-md);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-main);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.filter-option {
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--spacing-sm);
+  cursor: pointer;
+  color: var(--text-secondary);
+  transition: color var(--transition-fast);
+}
+
+.filter-option:hover {
+  color: var(--primary);
+}
+
+.filter-option input {
+  margin-right: var(--spacing-sm);
+  width: auto;
+  /* Override global input width 100% */
+}
+
+.price-inputs {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.price-inputs input {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.price-inputs span {
+  color: var(--text-light);
+}
+
+.filter-section select {
+  width: 100%;
+  padding: 0.75rem;
+  border-color: var(--border-medium);
+  border-radius: var(--radius-md);
+  font-size: 0.9rem;
+}
