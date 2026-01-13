@@ -43,7 +43,7 @@
 ## 📤 Submission Requirements
 
 ### 1. GitHub Repository ✅
-- **URL**: https://github.com/Vast-Factor/frontend-exam
+- **URL**: https://github.com/kavindya12/frontend-exam
 - **Status**: Public
 - **Branch**: main
 - **Latest Commit**: [To be updated before submission]

@@ -6,7 +6,7 @@ A modern, clean, and user-friendly React-based e-commerce web application built 
 
 **Live Preview**: [Deployed on Vercel/Netlify - Link to be added]
 
-**GitHub Repository**: https://github.com/Vast-Factor/frontend-exam
+**GitHub Repository**: https://github.com/kavindya12/frontend-exam
 
 ## 📋 Table of Contents
 
@@ -79,7 +79,7 @@ This project transforms a basic e-commerce application into a polished, modern, 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Vast-Factor/frontend-exam.git
+git clone https://github.com/kavindya12/frontend-exam.git
 cd frontend-exam
 ```
 
@@ -251,7 +251,7 @@ This project was created for educational purposes as part of a frontend practica
 ## 👤 Author
 
 **Vast Factor**
-- GitHub: [@Vast-Factor](https://github.com/Vast-Factor)
+- GitHub: [@kavindya12](https://github.com/kavindya12)
 
 ## 📞 Support
 
