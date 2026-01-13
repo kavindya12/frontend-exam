@@ -4,7 +4,7 @@ A modern, clean, and user-friendly React-based e-commerce web application built 
 
 ## 🚀 Live Demo
 
-**Live Preview**: [Deployed on Vercel/Netlify - Link to be added]
+**Live Preview**: https://frontend-exam-brown.vercel.app/
 
 **GitHub Repository**: https://github.com/kavindya12/frontend-exam
 
@@ -110,23 +110,28 @@ npm start
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](./screenshots/login_page.png)
+<img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/ba8e06e0-0fbd-42c9-a5eb-42744c5359ef" />
+
 *Modern login interface with illustrative graphics and clean form design*
 
 ### Products - Grid View
-![Products Grid](./screenshots/products_grid.png)
+<img width="1905" height="961" alt="image" src="https://github.com/user-attachments/assets/c3742a1e-8d39-4291-8f1d-104ca6de95d2" />
+
 *Responsive product grid with category filters and search*
 
 ### Products - List View
-![Products List](./screenshots/products_list.png)
+<img width="1916" height="962" alt="image" src="https://github.com/user-attachments/assets/e2bef4d1-b03d-492e-b4fc-1e184b4fc1f6" />
+
 *Detailed list view with uniform image sizing and professional spacing*
 
 ### Shopping Cart
-![Cart Page](./screenshots/cart_page.png)
+<img width="1918" height="962" alt="image" src="https://github.com/user-attachments/assets/03038e9c-7456-4ee9-9e06-1eefab637527" />
+
 *Clean cart interface with order summary and calculations*
 
 ### Admin Dashboard
-![Dashboard](./screenshots/dashboard.png)
+<img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/79d14113-de97-4dff-a39f-36c5c52d5e91" />
+
 *Comprehensive dashboard with metrics, charts, and analytics*
 
 ## 🎨 Design Decisions
@@ -237,11 +242,6 @@ npm run build
 ### Deploy to Vercel
 ```bash
 vercel --prod
-```
-
-### Deploy to Netlify
-```bash
-netlify deploy --prod
 ```
 
 ## 📝 License
